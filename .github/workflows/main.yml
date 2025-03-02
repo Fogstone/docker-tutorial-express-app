@@ -21,4 +21,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: express_app_from_docker_tutorial
+          tags: fogstone666/express_app_from_docker_tutorial
